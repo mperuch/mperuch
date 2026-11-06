@@ -1,14 +1,14 @@
 # Marcel Peruch
 
-Senior Backend Engineer. I build systems that have to work in production.
+Senior Software Engineer. I build systems that have to work in production.
 
 At [Frete Gestão](https://linkedin.com/in/marcel-peruch) I designed a freight platform for quoting, conciliation, and carrier operations. The quote engine handles around **400,000 requests per day**. I led a PHP-to-Go redesign that cut average latency from **450ms to 70ms** by changing the architecture, not only the language: parallel I/O, in-memory cache, configurable formulas, and persistence off the critical path.
 
-I am based in Brazil (UTC-3) and open to a remote **Senior Backend** or **Product Engineer** role with a European team.
+I am based in Brazil (UTC-3) and open to a remote **Senior Software Engineer** or **Product Engineer** role with a Global team.
 
 ## Stack
 
-Go · PHP · JavaScript · PostgreSQL · Redis · Docker · Kubernetes
+Javascript · TypeScript · Go · PHP · PostgreSQL · Redis · Docker · Kubernetes
 
 ## Public work
 
